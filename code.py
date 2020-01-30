@@ -3,6 +3,6 @@ def my_function():
 
     # $%$Start
     print("students write this")
-    # $%$END
+    # $%$End
 
     print("more provided code")
